@@ -6,6 +6,8 @@
 
 ## Our Anti-Cheat system is your game’s guardian against unfair advantages and exploits.
 
+We’ve designed a strong defense to ensure a level playing field for all players. Say goodbye to hackers and cheaters ruining the fun – our Anti-Cheat is here to protect the integrity of your game.
+
 With our Anti-Cheat, you can focus on creating exciting gameplay, and we’ll handle the rest. Let’s keep your game fair, secure, and enjoyable for everyone!
 
 Protectors:
